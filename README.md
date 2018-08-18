@@ -1,5 +1,9 @@
 # notifier
 
+Angular Dart Web Notifier (like push notification but just for inside angular dart the web app.)
+
+
+
 A web app that uses [AngularDart](https://webdev.dartlang.org/angular) and
 [AngularDart Components](https://webdev.dartlang.org/components).
 
