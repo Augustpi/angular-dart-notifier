@@ -2,7 +2,7 @@
 
 Angular Dart Web Notifier (like push notification but just for inside angular dart the web app.)
 
-
+![Angular dart Notifier](https://woorklab.com/images/notifier.png)
 
 A web app that uses [AngularDart](https://webdev.dartlang.org/angular) and
 [AngularDart Components](https://webdev.dartlang.org/components).
