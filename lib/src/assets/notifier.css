@@ -97,7 +97,7 @@
 	margin-left:5px;
 }
 .notify .content{
-	display:inline-block;
+	display: contents;
 	font-size: 14px;
 	color:#555;
 }
