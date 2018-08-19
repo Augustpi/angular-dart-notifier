@@ -57,6 +57,7 @@ class Notifier {
     
     Timer(
       Duration(milliseconds: 100), (){
+      container.classes.add('z');
       itemEl.classes.add('show-notifier');
     });
 
@@ -71,6 +72,12 @@ class Notifier {
   void closeNotification(String currentEl){
     querySelector('#'+currentEl).classes.remove('show-notifier');
     Timer(Duration(milliseconds: 600), querySelector('#'+currentEl).remove);
+    Timer(Duration(milliseconds: 630), removeZ);
+  }
+
+  void removeZ() {
+    if (querySelector('#notifier-container').children.length == 0) 
+      querySelector('#notifier-container').classes.remove('z');
   }
 
   Element _creteElement(String el, Map<String, String> attrs) {
