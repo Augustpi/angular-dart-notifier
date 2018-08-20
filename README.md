@@ -1,13 +1,17 @@
-# notifier
-
-Angular Dart Web Notifier (like push notification but just for inside angular dart the web app.)
-
+# Angular dart web notifier 
+## Welcome to the angular-dart-notifier wiki!
 
 ![Angular dart Notifier](https://woorklab.com/images/notifier.png)
 
+## Demo link
+
 [Angular dart web notifier demo page](https://augustpi.github.io/angular-dart-notifier/)
 
+
+## How to use
+
 * First step import notifier.dart file in the **lib/src/** directory
+* import notifier.css file 
 
 ```
   void sendNotifier(String type, String title, String content, int duration){
