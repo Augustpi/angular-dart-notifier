@@ -10,8 +10,9 @@
 
 ## How to use
 
-* First step import notifier.dart file in the **lib/src/** directory
-* import notifier.css file 
+* First step import `notifier.dart` file in the **lib/src/** directory
+* and import notifier.css file 
+
 
 ```
   void sendNotifier(String type, String title, String content, int duration){
@@ -24,12 +25,18 @@
 Notifier('info', 'title', 'content here', 1000).show();
 ```
 
-* **info** -> 'success', 'info', 'todo', 'reminder', 'warning' and 'danger' select one of them, 
+* **type** -> 'success', 'info', 'todo', 'reminder', 'warning' and 'danger' select one of them, 
 * **duration** int **milliseconds**
 
 ![Angular dart notifier example](https://woorklab.com/images/notifier2.png)
 
+## Dartlang and AngularDart
 
+For Dartlang please visit [Dartlang](https://www.dartlang.org) and [Github repo](https://github.com/dart-lang)
+For AngularDart [AngularDart](http://angulardart.org) and [Github](https://github.com/dart-lang/angular) 
 
+## Contribute
+Our project is, without any discrimination, open to anyone who is willing to make a contribution!
 
-A web app that uses [AngularDart](https://webdev.dartlang.org/angular) 
+## License
+Our project is licensed under MIT license.
