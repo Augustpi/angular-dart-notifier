@@ -1,19 +1,19 @@
 name: notifier
-version: 1.0.0
+version: 0.1.1
 description: A web app that uses AngularDart Components
 homepage: https://github.com/Augustpi/notifier
 author: Avni Onur Pehlivan <onur.pehlivan@addtohere.com>
 
 environment:
-  sdk: '>=2.0.0 <3.0.0'
+  sdk: '>=2.2.0-dev.1.1 <3.0.0'
 
 dependencies:
-  angular: ^5.0.0
-  angular_components: ^0.9.0
+  angular: ^5.2.0
+  angular_components: ^0.11.0
 
 dev_dependencies:
-  angular_test: ^2.0.0
-  build_runner: ^0.10.0
-  build_test: ^0.10.2
-  build_web_compilers: ^0.4.0
-  test: ^1.0.0
+  angular_test: ^2.2.0
+  build_runner: ^1.1.2
+  build_test: ^0.10.4
+  build_web_compilers: ^0.4.4+3
+  test: 1.5.1+1
