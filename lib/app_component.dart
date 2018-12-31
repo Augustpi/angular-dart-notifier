@@ -12,7 +12,9 @@ import 'package:notifier/src/notifier.dart';
 class AppComponent {
 
   void sendNotifier(String type, String title, String content, int duration){
-    new Notifier(type, title, content, duration).show();
+    
+    Notifier(type, title, content, duration).show();
+
   }
 
 }

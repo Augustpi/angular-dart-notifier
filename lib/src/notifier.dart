@@ -18,12 +18,9 @@ class Notifier {
   }
 
   createContainer() {
-    print(querySelector('#notifier-container') == null);
     if (querySelector('#notifier-container') != null) {
       counter = querySelector('#notifier-container').children.length;
-      print(counter);
       counter += 1;
-      print(counter);
       return querySelector('#notifier-container');    
     } else {
       counter = 0;

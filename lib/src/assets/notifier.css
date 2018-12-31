@@ -55,37 +55,37 @@
     height:48px;
 }
 .notify .img-danger{
-    background:url('/packages/notifier/src/assets/images/notifier-danger.svg');
+    background:url('/assets/images/notifier-danger.svg');
     background-position-x: center;
     background-position-y: center;
     background-repeat: no-repeat;
 }
 .notify .img-info{
-    background:url('/packages/notifier/src/assets/images/notifier-info.svg');
+    background:url('/assets/images/notifier-info.svg');
     background-position-x: center;
     background-position-y: center;
     background-repeat: no-repeat;
 }
 .notify .img-warning{
-    background:url('/packages/notifier/src/assets/images/notifier-danger.svg');
+    background:url('/assets/images/notifier-danger.svg');
     background-position-x: center;
     background-position-y: center;
     background-repeat: no-repeat;
 }
 .notify .img-success{
-    background:url('/packages/notifier/src/assets/images/notifier-success.svg');
+    background:url('/assets/images/notifier-success.svg');
     background-position-x: center;
     background-position-y: center;
     background-repeat: no-repeat;
 }
 .notify .img-reminder{
-    background:url('/packages/notifier/src/assets/images/notifier-reminder.svg');
+    background:url('/assets/images/notifier-reminder.svg');
     background-position-x: center;
     background-position-y: center;
     background-repeat: no-repeat;
 }
 .notify .img-todo{
-    background:url('/packages/notifier/src/assets/images/notifier-todo.svg');
+    background:url('/assets/images/notifier-todo.svg');
     background-position-x: center;
     background-position-y: center;
     background-repeat: no-repeat;
