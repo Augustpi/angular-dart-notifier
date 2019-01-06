@@ -30,6 +30,8 @@ Notifier('info', 'title', 'content here', 1000).show();
 
 ![Angular dart notifier example](https://woorklab.com/images/notifier2.png)
 
+[Angular notifier typescript version](https://github.com/Augustpi/angular2-notifier)
+
 ## Dartlang and AngularDart
 
 For Dartlang please visit [Dartlang](https://www.dartlang.org) and [Github repo](https://github.com/dart-lang),
