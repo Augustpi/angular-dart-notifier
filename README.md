@@ -8,7 +8,7 @@
 [Angular dart web notifier demo page](https://augustpi.github.io/angular-dart-notifier/)
 
 
-## Typescript version 
+## Typescript version 
 
 [Angular notifier typescript version](https://github.com/Augustpi/angular2-notifier)
 
