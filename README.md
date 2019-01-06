@@ -8,6 +8,10 @@
 [Angular dart web notifier demo page](https://augustpi.github.io/angular-dart-notifier/)
 
 
+## Typescript version 
+
+[Angular notifier typescript version](https://github.com/Augustpi/angular2-notifier)
+
 ## How to use
 
 * First step import `notifier.dart` file in the **lib/src/** directory
@@ -30,7 +34,6 @@ Notifier('info', 'title', 'content here', 1000).show();
 
 ![Angular dart notifier example](https://woorklab.com/images/notifier2.png)
 
-[Angular notifier typescript version](https://github.com/Augustpi/angular2-notifier)
 
 ## Dartlang and AngularDart
 
