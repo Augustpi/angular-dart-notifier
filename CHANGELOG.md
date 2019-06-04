@@ -1,5 +1,9 @@
 ## Change Log
 
+**0.1.3**
+
+* Minor fix
+
 **0.1.2**
 
 * Minor fix
