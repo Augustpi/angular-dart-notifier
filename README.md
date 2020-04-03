@@ -37,8 +37,8 @@ Notifier('info', 'title', 'content here', 1000).show();
 
 ## Dartlang and AngularDart
 
-For Dartlang please visit [Dartlang](https://www.dartlang.org) and [Github repo](https://github.com/dart-lang),
-For AngularDart [AngularDart](http://angulardart.org) and [Github](https://github.com/dart-lang/angular)
+For Dartlang please visit [Dartlang](https://www.dart.dev) and [Github repo](https://github.com/dart-lang),
+For AngularDart [AngularDart](http://angulardart.dev) and [Github](https://github.com/dart-lang/angular)
 
 ## Contribute
 Our project is, without any discrimination, open to anyone who is willing to make a contribution!
